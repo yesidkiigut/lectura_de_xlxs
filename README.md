@@ -1,3 +1,6 @@
+Para probar este escrip es necesario crear un excel con los campos de 
+id,nombre,apellido,cedula
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
